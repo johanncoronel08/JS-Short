@@ -1,0 +1,21 @@
+{
+  "name": "js-project",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "HolaMundo.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/register": "^7.24.6",
+    "@cucumber/cucumber": "^10.8.0",
+    "moment": "^2.30.1",
+    "selenium-webdriver": "^4.22.0"
+  },
+  "devDependencies": {
+    "allure-commandline": "^2.29.0",
+    "mocha": "10.4.0"
+  }
+}
